@@ -7,3 +7,5 @@ How to Run:
 	2. Configure Database Connection properties like hostname, username and password in src/main/resources/application.properties file.
 	3. Run StudentServiceTest JUnit Test class.
 	4. Build using Maven: mvn clean package
+
+	Note: just for test
